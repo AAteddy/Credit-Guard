@@ -23,3 +23,6 @@ env/
 
 # ML artifacts
 artifacts/
+
+# Raw data (big size data)
+raw/

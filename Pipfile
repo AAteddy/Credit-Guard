@@ -12,6 +12,7 @@ seaborn = "*"
 jupyter = "*"
 fastapi = "*"
 uvicorn = "*"
+xlrd = "*"
 
 [dev-packages]
 
